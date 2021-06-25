@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
     color: #fff;
-    background-color: #06425a;
+    background-color: #61122f;
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -9,7 +9,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #b94848;
+    background-color: #f6b319;
     border-radius: 0;
     border: 0;
 }
